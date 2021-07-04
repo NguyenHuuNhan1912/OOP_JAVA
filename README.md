@@ -6,4 +6,4 @@
 
 3. Các bài tập liên quan đến FILE trong java
 
-4. Một số bài tập liên quan đến giao diện đồ họa người dùng (GUI/Garphic user interface)
+4. Một số bài tập liên quan đến giao diện đồ họa người dùng (GUI / Graphic user interface)
