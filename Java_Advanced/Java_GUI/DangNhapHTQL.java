@@ -11,7 +11,7 @@ import java.awt.Font;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-public class Student_Management extends JFrame{
+public class DangNhapHTQL extends JFrame{
 	private String s;
 	private JTextField readtk;
 	private JTextField readmbv;
@@ -152,6 +152,6 @@ public class Student_Management extends JFrame{
 		
 	}
 	public static void main(String[] args) {
-		new Student_Management();
+		new DangNhapHTQL();
 	}
 }
