@@ -16,7 +16,7 @@ public class File_IPS_OPS{
 		System.out.print(result);
 		file.close();
 		
-		//Ghi du lieu vao file
+		//Ghi du lieu vao file1
 		System.out.println("Nhan");
 		FileOutputStream file1 = new FileOutputStream("D://BT2.txt");
 		String s = "AN Giang";
