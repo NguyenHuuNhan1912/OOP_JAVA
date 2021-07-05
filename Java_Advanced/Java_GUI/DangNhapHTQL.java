@@ -36,7 +36,7 @@ public class DangNhapHTQL extends JFrame{
         String result = new String(temp);
         return result;
     }
-	public Student_Management() {
+	public DangNhapHTQL() {
 		
 		//Tạo khung 
 		super.setTitle("Hệ thống quản lí sinh viên");
