@@ -5,7 +5,5 @@
 2. Một số bài tập liên quan đến giao diện đồ họa người dùng (GUI / Graphic user interface)
 
 3. Link tham khảo video tutorial JAVA GUI: https://www.youtube.com/watch?v=Kmgo00avvEw&t=14385s
-
-4. [x] @mentions, #refs, [ https://github.com/NguyenHuuNhan1912/OOP_JAVA/tree/master/Java_Advanced](congviec1), **formatting**, and <del>tags</del> supported
-
+4. [GitHub](http://github.com)
 ![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i13.png)
