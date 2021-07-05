@@ -6,4 +6,6 @@
 
 3. Link tham khảo video tutorial JAVA GUI: https://www.youtube.com/watch?v=Kmgo00avvEw&t=14385s
 
+4. [x] @mentions, #refs, [ https://github.com/NguyenHuuNhan1912/OOP_JAVA/tree/master/Java_Advanced](), **formatting**, and <del>tags</del> supported
+
 ![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i13.png)
