@@ -1,5 +1,5 @@
 import java.util.Random;
-public class RDum {
+public class Random {
     public static void usingRandomClass(/*char arr[]*/) {
         
         for (int i=0; i<5; i++) {
