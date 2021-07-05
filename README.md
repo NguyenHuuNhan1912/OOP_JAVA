@@ -6,5 +6,5 @@
 
 [3. Link tham khảo video tutorial JAVA GUI](https://www.youtube.com/watch?v=Kmgo00avvEw&t=14385s)
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i14.jpg)
 
