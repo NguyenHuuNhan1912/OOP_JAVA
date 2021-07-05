@@ -14,7 +14,7 @@ public class WriteFile{
 		mssv = new String();
 		age=20;
 	}
-
+	//READ
 	public void read(){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("\nNhap ho ten: ");
