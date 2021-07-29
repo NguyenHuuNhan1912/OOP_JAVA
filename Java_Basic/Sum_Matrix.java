@@ -63,7 +63,25 @@ public class Sum_Matrix{
         }
         return result;
     }
-
+    
+    //Lay hang cua ma tran
+    public int get_row(){
+        return row;
+    }
+    
+    //Lay cot cua ma tran
+    public int get_column(){
+        return column;
+    }
+    
+    //Ham kiem tra ma tran co cung cap hay khong
+    public static void check(Sum_Matrix mt1, Sum_Matrix mt2){
+        if(!((mt1.get_row()==mt2.get_row()) && ( mt1.get_column()==mt2.get_column()))){
+            System.out.println("Hai ma tran khong cung cap --> Khong the cong hai ma tran !");
+            System.exit(0);
+        }
+    }
+    
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         Sum_Matrix matrix1 = new Sum_Matrix();
@@ -80,7 +98,9 @@ public class Sum_Matrix{
 
         System.out.println("\nMa tran thu 2");
         matrix2.print();
-        
+
+        Sum_Matrix.check(matrix1,matrix2);
+
         System.out.println("\nTong hai ma tran");
         matrix1.sum_matrix(matrix2).print();
     }
