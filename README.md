@@ -7,7 +7,10 @@
 
 [*4. Các bài tập Java `cơ bản`*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/tree/master/Java_Basic)
 
-[*Cộng hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Sum_Matrix.java)
+## **Các bài tập về ma trận**
+* [*Cộng hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Sum_Matrix.java)
+* [*Nhân hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Multiplication_Matrix.java)
+* [*Tính định thức hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Determinant_Matrix.java)
 <p align = "center">
 <img src="https://media.giphy.com/media/11Jhb25qh1nUAM/giphy.gif">
  <p>
