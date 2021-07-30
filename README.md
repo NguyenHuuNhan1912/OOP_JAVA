@@ -11,6 +11,10 @@
 * [*Cộng hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Sum_Matrix.java)
 * [*Nhân hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Multiplication_Matrix.java)
 * [*Tính định thức hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Determinant_Matrix.java)
+## **Kiểm tra các loại số**
+* [*Kiểm tra số chính phương*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoChinhPhuong.java)
+* [*Kiểm tra số nguyên tố*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoNguyenTo.java)
+* [*Kiểm tra số đối xứng*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoDoiXung.java)
 <p align = "center">
 <img src="https://media.giphy.com/media/11Jhb25qh1nUAM/giphy.gif">
  <p>
