@@ -15,6 +15,10 @@
 * [*Kiểm tra số chính phương*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoChinhPhuong.java)
 * [*Kiểm tra số nguyên tố*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoNguyenTo.java)
 * [*Kiểm tra số đối xứng*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoDoiXung.java)
+## **Các bài tập thú vị khác**
+* [*Hàm sinh số ngẫu nhiên trong java*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/random.java)
+* [*Ngày và giờ trong java*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Date_Time.java)
+* [*Sử dụng lớp arrays trong java để sắp xếp các mảng*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Arrays_Class.java)
 <p align = "center">
-<img src="https://media.giphy.com/media/11Jhb25qh1nUAM/giphy.gif">
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHP6Tx9_KjK7w/feedshare-shrink_2048_1536/0/1626698289762?e=1629936000&v=beta&t=nusIW-wcSZncRf25FmWS-BTv_P_a8FsnXlQNKAJkAMU" >
  <p>
