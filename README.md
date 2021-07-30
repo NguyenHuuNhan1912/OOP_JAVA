@@ -10,7 +10,7 @@
 ## **Các bài tập về ma trận**
 * [*Cộng hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Sum_Matrix.java)
 * [*Nhân hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Multiplication_Matrix.java)
-* [*Tính định thức hai ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Determinant_Matrix.java)
+* [*Tính định thức ma trận*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Determinant_Matrix.java)
 ## **Kiểm tra các loại số**
 * [*Kiểm tra số `chính phương`*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoChinhPhuong.java)
 * [*Kiểm tra số `nguyên tố`*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/blob/master/Java_Basic/Check_SoNguyenTo.java)
