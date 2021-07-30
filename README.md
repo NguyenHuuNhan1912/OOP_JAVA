@@ -5,6 +5,7 @@
 
 [*3. Link tham khảo `video tutorial JAVA GUI`*](https://www.youtube.com/watch?v=Kmgo00avvEw&t=14385s)
 
+[*4. Các bài tập Java `cơ bản`*](https://github.com/NguyenHuuNhan1912/OOP_JAVA/tree/master/Java_Basic)
 <p align = "center">
 <img src="https://media.giphy.com/media/11Jhb25qh1nUAM/giphy.gif">
  <p>
